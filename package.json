@@ -1,0 +1,13 @@
+{
+  "name": "backend-course-2025-3",
+  "version": "1.0.0",
+  "description": "Lab work #3 - JavaScript programming practice",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.1"
+  }
+}
